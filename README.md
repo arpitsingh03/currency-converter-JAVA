@@ -38,8 +38,3 @@ To run this project locally, follow these steps:
 - Maven (optional for building)
 - intellij Idea
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
